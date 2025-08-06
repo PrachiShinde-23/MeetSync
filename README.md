@@ -1,1 +1,1 @@
-Real-Time Video Conferencing Platform
+MeetSync- Real-Time Video Conferencing Platform
